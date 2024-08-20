@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cmake2", "Cmake2\Cmake2.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cmake3", "Cmake3\Cmake3.vcxproj", "{496009EA-3C48-4835-B53A-14E3E008D9C9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cmake4", "Cmake4\Cmake4.vcxproj", "{E44844B6-D6BD-4C03-8CE8-7646C521F186}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{496009EA-3C48-4835-B53A-14E3E008D9C9}.Release|x64.Build.0 = Release|x64
 		{496009EA-3C48-4835-B53A-14E3E008D9C9}.Release|x86.ActiveCfg = Release|Win32
 		{496009EA-3C48-4835-B53A-14E3E008D9C9}.Release|x86.Build.0 = Release|Win32
+		{E44844B6-D6BD-4C03-8CE8-7646C521F186}.Debug|x64.ActiveCfg = Debug|x64
+		{E44844B6-D6BD-4C03-8CE8-7646C521F186}.Debug|x64.Build.0 = Debug|x64
+		{E44844B6-D6BD-4C03-8CE8-7646C521F186}.Debug|x86.ActiveCfg = Debug|Win32
+		{E44844B6-D6BD-4C03-8CE8-7646C521F186}.Debug|x86.Build.0 = Debug|Win32
+		{E44844B6-D6BD-4C03-8CE8-7646C521F186}.Release|x64.ActiveCfg = Release|x64
+		{E44844B6-D6BD-4C03-8CE8-7646C521F186}.Release|x64.Build.0 = Release|x64
+		{E44844B6-D6BD-4C03-8CE8-7646C521F186}.Release|x86.ActiveCfg = Release|Win32
+		{E44844B6-D6BD-4C03-8CE8-7646C521F186}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
