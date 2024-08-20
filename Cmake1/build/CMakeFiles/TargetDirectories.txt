@@ -1,0 +1,3 @@
+C:/DEV/VS/CmakeTutorial/CmakeProjects/Cmake1/build/CMakeFiles/Executable.dir
+C:/DEV/VS/CmakeTutorial/CmakeProjects/Cmake1/build/CMakeFiles/ALL_BUILD.dir
+C:/DEV/VS/CmakeTutorial/CmakeProjects/Cmake1/build/CMakeFiles/ZERO_CHECK.dir
